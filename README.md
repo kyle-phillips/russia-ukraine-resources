@@ -1,5 +1,5 @@
 # russia-ukraine-resources
-A list of cyber resources related to Russia Ukraine conflict
+A list of cyber preparedness resources related to Russia Ukraine conflict.
 
 | Resource  | URL  |  
 | ------- | ------- |
