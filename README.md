@@ -12,3 +12,4 @@ A list of cyber preparedness resources related to Russia Ukraine conflict.
 | Cisco Talos Intelligence | https://talosintelligence.com/  |
 | IBM X Force Exchange  (requires free account) | https://exchange.xforce.ibmcloud.com/search/%23ukraine | 
 | Curated list of specific Ukraine threats | https://github.com/curated-intel/Ukraine-Cyber-Operations | 
+| Gartner | https://www.gartner.com/document/code/767414?ref=RussUkrAnnouncePS_Email |
